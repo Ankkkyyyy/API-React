@@ -30,7 +30,8 @@ export class News extends Component {
   render() {
     return (
       <div className="container my-3">
-        <h1 >OneClickNews Top Headlines</h1>
+        <h1 >NEWSBLOT </h1>
+        <h3 className="mt-3" >Top Headlines</h3>
         
 
         <div className="row ">
